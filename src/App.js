@@ -34,11 +34,11 @@ function App() {
           <h3 className='reg-txt'>Now Available on iOS and Android</h3>
           <div className='row'>
             <span className='btn'>
-              <a href="#">Android</a>
+              <a href="https://www.google.com/">Android</a>
             </span>
             <pre>   </pre>
             <span className='btn'>
-              <a href="#">iOS</a>
+              <a href="https://www.apple.com/">iOS</a>
             </span>
           </div>
           <br/>
