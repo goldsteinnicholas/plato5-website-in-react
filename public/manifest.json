@@ -3,7 +3,7 @@
   "name": "PLATO5 - The Social Engine designed to match you with people with similar personalities near you",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "plato5-favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
